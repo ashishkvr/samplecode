@@ -1,0 +1,6 @@
+framework module AntaviSenseSDK {
+  umbrella header "AntaviSenseSDK.h"
+
+  export *
+  module * { export * }
+}
